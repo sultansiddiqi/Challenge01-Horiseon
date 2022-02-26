@@ -2,7 +2,8 @@
 ## By Sultan Siddiqi
 ## Email: sultan.siddiqi@gmail.com
 ## GitLab Profile: sultansiddiqi
-## Website
+
+## Link to Challenge 
 https://sultansiddiqi.github.io/Challenge01-Horiseon/
 
 ## Project Description
@@ -24,7 +25,13 @@ Remember when working with a client, it is essential to read the acceptance crit
 * Adjusting header tags to go into descending order to follow 
 * Added comments to show which adjustments were made
 * CSS Page: Grouping classes that had the same paramters into one section
-    - This was done by cleaning up the classes as well as creating new ones to apply to similar areas.
+    - This was done by cleaning up the classes as well as creating new ones to apply to similar areas
+    - Having code arranged in a more organized manner
+
+<br/>
+## Code was to resemble the following Image
+
+![Alt text](./assets/images/01-html-css-git-homework-demo.png "Code Refactor Challenge Screenshot Example Image")
 
 ### Acceptance Criteria
 The following information is the grading/acceptance criteria for this assignment.
@@ -43,7 +50,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ​
-## Grading Criteria
+## Grading Criteria From Course Page
+# https://courses.bootcampspot.com/courses/1181/assignments/23346?module_item_id=458708
 ​
 ### Technical: 40%
 - Application's links all function correctly.
@@ -64,7 +72,8 @@ THEN I find a concise, descriptive title
 - Repository follows best practices for file structure and naming conventions.
 - Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 - Repository contains multiple descriptive commit messages.
+- Repository contains quality README file with description, screenshot, and link to deployed application.
 
 ## Contribution
-Code provided by "Horiseon"
+Code provided by "Horiseon" <br />
 Code Refactored by Sultan Siddiqi
