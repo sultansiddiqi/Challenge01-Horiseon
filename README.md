@@ -28,7 +28,7 @@ Remember when working with a client, it is essential to read the acceptance crit
     - This was done by cleaning up the classes as well as creating new ones to apply to similar areas
     - Having code arranged in a more organized manner
 
-<br/>
+
 ## Code was to resemble the following Image
 
 ![Alt text](./assets/images/01-html-css-git-homework-demo.png "Code Refactor Challenge Screenshot Example Image")
